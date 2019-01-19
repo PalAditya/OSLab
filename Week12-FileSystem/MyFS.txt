@@ -1,0 +1,8 @@
+Offo
+a
+HmmHmm
+Huhu
+Please
+Hi, my name is Aditya Pal
+I am a third year Computer Science student of IIT Bhubaneswar
+limits.h includes definitions of the characteristics of common variable types. The values are implementation specific, but may not be of lower magnitude than certain specified values in a conforming C implementation.
